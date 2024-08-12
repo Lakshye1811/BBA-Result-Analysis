@@ -1,6 +1,7 @@
 # BBA-Result-Analysis
 
 Conducted a comprehensive analysis of the result of students from the batch of 2021-24 and drive meaningful insights of the students’ performance by every semester and classified by shift and section. Responsibilities included:
+
 o	Collecting raw data from the official website and perform data cleaning on excel
 o	Remove outliers and various discrepancies related to data
 o	Perform data cleaning on power query
