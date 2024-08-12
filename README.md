@@ -3,9 +3,13 @@
 Conducted a comprehensive analysis of the result of students from the batch of 2021-24 and drive meaningful insights of the students’ performance by every semester and classified by shift and section. Responsibilities included:
 
 o	Collecting raw data from the official website and perform data cleaning on excel
+
 o	Remove outliers and various discrepancies related to data
+
 o	Perform data cleaning on power query
+
 o	Develop interactive dashboard on power BI to highlight performance of students in each semester and prepare the overall result.
+
 o	Outcome: Provide meaningful insights to understand overall performance of all students that would allow professors and students to highlight areas of weakness and take measures to improve performance in those semesters for future batches.
 
 ![Screenshot 2024-08-13 005208](https://github.com/user-attachments/assets/dee67f45-8e7e-461d-8f7e-e8243aad483f)
